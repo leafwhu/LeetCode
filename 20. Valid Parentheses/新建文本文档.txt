@@ -1,0 +1,7 @@
+用unordered_map更好
+unorder_map<char,char> pairs={
+	{']', '['},
+	{')', ')'},
+	{'}', '{'}
+};
+pairs.count(tmpChar)可以判断tmpChar是不是pairs中的key
