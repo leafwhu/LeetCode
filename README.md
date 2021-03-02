@@ -1,1 +1,1 @@
-个人LeetCode刷题记录，大部分题以python3提交
+个人LeetCode刷题记录，前面用Python提交，编号20开始用C++提交
